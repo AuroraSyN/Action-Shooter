@@ -1,6 +1,13 @@
 # PvPShooter
 PvP Action Shooter for HS Worms
 
-# TODO: 
-  ## init
-  ## trello board
+### LICENSE
+ >GNU General Public License v3.0
+
+### Created in: Visual Studio 2017 with Unreal Engine 4+
+
+### Platforms:
+    Windows 8, 10
+    Android 5.1 +
+    Linux ( unsupported yet)
+    
