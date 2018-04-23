@@ -1,7 +1,7 @@
 # PvPShooter
-PvP Action Shooter for HS Worms
+    PvP Action Shooter for HS Worms
 
-### LICENSE7
+### LICENSE
     GNU General Public License v3.0
 
 ### Created in: 
