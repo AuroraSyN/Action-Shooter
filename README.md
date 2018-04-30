@@ -13,6 +13,6 @@
     Android 5.1 +
     Linux ( unsupported yet)
 ### Supported Api
-    Directx 11.2 ( Only Windows )
+    Directx 10.2 ( Only Windows )
     Vulkan
 
