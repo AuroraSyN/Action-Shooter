@@ -1,1 +1,89 @@
-CHANGELOG
+# 0.0.1
+  Project initialization
+   
+# 0.0.97
+  Added Playercharacter
+  Added Camera Controll
+  Added Testmap
+ 
+# 0.1.34
+  Added Weapon System
+  Template for Weapons
+  Projectlines
+  POI
+
+# 0.1.92
+  Change camera to Firstlook
+  Added Move Animation
+
+# 0.1.96
+  Bullet system
+  Main and Secondary weapons
+  update POI
+  
+# 0.4.10
+  Added rest of Animation
+  Weapon reload
+  Weapon hits
+  Drop weapon
+
+# 0.5.12
+  Added rest of Weapon
+  Added new Input methods
+  
+# 0.5.76
+  Template for Mobile input
+  Template for Controller
+  Hangar Template
+
+# 0.6.45
+  Mobile input
+  Controller input
+  Deathmatch gamemode
+
+# 0.6.91
+  Added Hangar DM
+  Rendering for Mobile
+
+# 0.7.1
+  Dedicated server
+  Sessions
+  
+# 0.8.94
+  New Logic impl for Server
+  Team Deathmatch gamemode
+
+# 0.9.5
+  Added Chat
+  Added Minimap
+  
+  -/ Aplha \-
+  
+# 1.0.4
+  Added Hangar TDM
+ 
+# 1.0.17
+  Added RushHouse
+  Changed minimap to texture ( canvas)
+ 
+# 1.0.87
+  Added MagieWorld
+  
+  -/ Beta \-
+ 
+# 1.1.13
+  Bug in Session fix
+  Bug in Mobile input fix
+  
+# 1.1.42
+  RC.1
+  Structur updated
+  Trash removed
+
+# 1.1.50
+  Relase
+  Bug in Render fixed
+  Bug in Android Back Key fixed
+  Bug in Hangar DM und Hangard TDM fixed
+  Bug in RushHouse ( Texture bug ) fixed
+  Server stable.
